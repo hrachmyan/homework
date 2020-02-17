@@ -1,0 +1,3 @@
+grade = 46 
+if grade >= 80:
+  print ('A')
